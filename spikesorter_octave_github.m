@@ -1,3 +1,4 @@
+Copyright 2020 David Torres
 close all
 clear all
 format long
